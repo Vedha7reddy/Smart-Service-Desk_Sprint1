@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "SmartServiceDesk_JDBC\\src"
+    ],
+    "java.project.referencedLibraries": [
+        "SmartServiceDesk_JDBC\\lib\\ojdbc17.jar",
+        "c:\\Users\\YELAK\\OneDrive\\Desktop\\SmartServiceDesk_JDBC\\SmartServiceDesk_JDBC\\lib\\mysql-connector-j-9.3.0.jar"
+    ]
+}
